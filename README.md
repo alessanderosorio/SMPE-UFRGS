@@ -1,3 +1,3 @@
 # SMPE-UFRGS
 
-This is my final work for SMPE Lecture 
+This is my final work for UFRGS SMPE Lecture 
