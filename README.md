@@ -15,6 +15,9 @@ For the final work for this lecture, I intend to reproduce the analysis of the  
 File List:
 
 meta_analise.Rmd	- RStudio with analysis sintax
+
 meta_analise.html	- Result of analysis from RStudio
+
 resultados.csv - Raw data from the meta-analysis
+
 evento_tipo_ano.csv	- tabulated data
